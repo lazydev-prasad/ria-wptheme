@@ -1,0 +1,11 @@
+@charset 'utf-8';
+@import 'settings';
+@import 'bootstrap';
+
+$body-bg: #efefef;
+
+body {
+    background-color: $body-bg;
+    padding-top: 40px;
+}
+
